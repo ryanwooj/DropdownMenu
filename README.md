@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Frontend Engineer Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Built with:
+
+- React
+- styled-components
 
 ![Preview image](/public/image.png)
 
